@@ -5,10 +5,7 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1UfKD3Ko/giphy.gif" width="100%" />
-</div>
-<br/>
+
 
 # About ME 💬 :
 

@@ -5,21 +5,17 @@
 </div>
 <br/>
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmed+Tarek....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-
 # About ME 💬 :
 
-### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from Egypt.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-</div>
+### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from Egypt.
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -29,7 +25,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 
-<br />
+<br clear="all" />
 <br />
 
 # Languages & Tools 👨‍💻 🛠:

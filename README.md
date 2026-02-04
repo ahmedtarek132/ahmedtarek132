@@ -40,12 +40,17 @@
   <br/>
   
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=google-colab&logoColor=white" />
 
 </div>
 
 <br />
 <br />
+
+# Contact Me :
+
+<p>
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+</p>
 
 # Contact Me :
 
@@ -63,13 +68,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <a href="https://www.linkedin.com/in/ahmed-tarek-38b551240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
 
-<br />
-<br />
+  &nbsp;&nbsp;
 
-<div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://www.facebook.com/ahmed.tarek.838753" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>

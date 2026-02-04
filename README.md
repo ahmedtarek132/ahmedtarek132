@@ -58,8 +58,14 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 </p>
 
+# Contact Me :
+
+<p>
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+</p>
+
 <div align="center">
-  <a href="mailto:ahmdtarq358@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmdtarq358@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   

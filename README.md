@@ -15,15 +15,14 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from Egypt.
+### - I'm 21 years old Machine Learning & Artificial Intelligence Enthusiast from Egypt.
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Machine Learning & Deep Learning
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
+- Learning :
+  * ✨ **Core & Foundations:** Python, SQL, Data Structures & Algorithms
+  * ✨ **Data Analysis & Visualization:** Data Wrangling, EDA, Pandas, NumPy, Matplotlib
+  * ✨ **Machine Learning:** Predictive Modeling, Regression (Linear, Polynomial, Ridge), Scikit-Learn
+  * ✨ **Advanced Topics:** Model Optimization (Grid Search), Deep Learning
 
 <br clear="all" />
 <br />

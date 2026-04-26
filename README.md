@@ -63,9 +63,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/ahmed.tarek.838753" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
